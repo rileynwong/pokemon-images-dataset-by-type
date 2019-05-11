@@ -4,7 +4,7 @@
 
 Dataset of Pokemon images sorted by primary type, exclusive. Images contain all 809 Pokemon from generation 1-7.
 
-Original dataset from [here](https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types).
+Original dataset from [here](https://www.kaggle.com/vishalsubbiah/pokemon-images-and-types). Code for sorting images by type can be found [here](https://github.com/rileynwong/sort-pokemon-images-by-type).
 
 ## Number of images per type
 
